@@ -12,7 +12,7 @@ Project webside
       color: rgb(98,400,9);
 }
 body{
-  background-color: rgb(97,250,500)
+  background-color: rgb(97,250,500);
         
         
    
