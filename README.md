@@ -13,11 +13,8 @@ Project webside
 }
 body{
   background-color: rgb(97,250,500);
-       }
-        
-        
-   
-     </style>
+}
+   </style>
   </head>
   <body>
     <h1>Ulubiony Avengers</h1>
